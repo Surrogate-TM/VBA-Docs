@@ -144,7 +144,7 @@ Public Sub AddNewDataGraphicMaster()
  
     vsoGraphicItem.SetExpression visGraphicExpression, "new_data_field_name" 
     vsoGraphicItem.PositionHorizontal = visGraphicLeft 
-    vsoMasterCopy.DataGraphicHidesText = True; 
+    vsoMasterCopy.DataGraphicHidesText = True
     vsoMasterCopy.Close 
  
 End Sub
